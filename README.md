@@ -1,6 +1,7 @@
 ## 👋 Hi there, I'm Lyster Kwamboka!
 
 🔭 I’m currently perfecting my skills by exploring  data, building predictive models and  sustainability strategies through data.
+
 🌱 I’m currently learning advanced machine learning techniques, deep learning with TensorFlow, and real-world applications of AI.  
 👯 I’m looking to collaborate on open-source data science projects, especially in healthcare, aviation, or environmental sustainability.  
 🤔 I’m looking for help with mastering deployment techniques for ML models and learning more about deep neural networks.  
